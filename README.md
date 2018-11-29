@@ -30,3 +30,5 @@ Thanks to
 ![USB](https://github.com/irelandKen/MSI-B360M-MORTAR-TITANIUM-EFI/blob/master/FB-Patcher-USB.png?raw=true)
 
 ![AUDIO](https://github.com/irelandKen/MSI-B360M-MORTAR-TITANIUM-EFI/blob/master/AUDIO.png?raw=true)
+
+![AUDIO](https://github.com/irelandKen/MSI-B360M-MORTAR-TITANIUM-EFI/blob/master/HEVC.png?raw=true)
