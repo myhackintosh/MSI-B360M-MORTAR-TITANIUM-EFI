@@ -19,7 +19,9 @@ AppleALC:1.3.3
 
 USB Port Patching by FB-Patcher
 
-Thanks to [daliansky](https://github.com/daliansky)
+Thanks to 
+[daliansky](https://github.com/daliansky)
+[vit9696](https://github.com/vit9696)
 
 ![GPU](https://github.com/irelandKen/MSI-B360M-MORTAR-TITANIUM-EFI/blob/master/FB-Patcher.png?raw=true)
 
