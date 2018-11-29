@@ -23,7 +23,7 @@ Thanks to
 [daliansky](https://github.com/daliansky)
 [vit9696](https://github.com/vit9696)
 
-![GPU](https://github.com/irelandKen/MSI-B360M-MORTAR-TITANIUM-EFI/blob/master/FB-Patcher.png?raw=true)
+![GPU](https://github.com/irelandKen/MSI-B360M-MORTAR-TITANIUM-EFI/blob/master/FB-Patcher-new.png?raw=true)
 
 ![ALC](https://github.com/irelandKen/MSI-B360M-MORTAR-TITANIUM-EFI/blob/master/FB-Patcher-ALC.png?raw=true)
 
