@@ -107,6 +107,10 @@
 			<dict>
 				<key>#hda-gfx</key>
 				<string>onboard-1</string>
+				<key>device-id</key>
+                                <data>
+                                mz4AAA==
+                                </data>
 				<key>AAPL,ig-platform-id</key>
 				<data>
 				BwCbPg==
