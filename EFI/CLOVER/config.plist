@@ -19,37 +19,6 @@
 				<key>FixShutdown</key>
 				<false/>
 			</dict>
-			<key>Patches</key>
-			<array>
-				<dict>
-					<key>Comment</key>
-					<string>change HECI to IMEI</string>
-					<key>Disabled</key>
-					<false/>
-					<key>Find</key>
-					<data>
-					SEVDSQ==
-					</data>
-					<key>Replace</key>
-					<data>
-					SU1FSQ==
-					</data>
-				</dict>
-				<dict>
-					<key>Comment</key>
-					<string>change GFX0 to IGPU</string>
-					<key>Disabled</key>
-					<false/>
-					<key>Find</key>
-					<data>
-					R0ZYMA==
-					</data>
-					<key>Replace</key>
-					<data>
-					SUdQVQ==
-					</data>
-				</dict>
-			</array>
 		</dict>
 		<key>FixHeaders</key>
 		<true/>
@@ -107,7 +76,7 @@
 			<dict>
 				<key>#hda-gfx</key>
 				<string>onboard-1</string>
-				<key>device-id</key>
+				<key>#device-id</key>
 				<data>
 				mz4AAA==
 				</data>
