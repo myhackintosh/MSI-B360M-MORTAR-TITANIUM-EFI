@@ -38,7 +38,7 @@
 	<key>Boot</key>
 	<dict>
 		<key>Arguments</key>
-		<string>-v -igfxnohdmi</string>
+		<string></string>
 		<key>DefaultVolume</key>
 		<string>LastBootedVolume</string>
 		<key>Timeout</key>
@@ -81,10 +81,6 @@
                                 <key>#device-id</key>
                                 <data>
                                 mz4AAA==
-                                </data>
-                                <key>framebuffer-patch-enable</key>
-                                <data>
-                                AQAAAA==
                                 </data>
 			</dict>
 		</dict>
